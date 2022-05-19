@@ -1,0 +1,66 @@
+newmtl hearse
+Kd 1 1 1
+map_Kd null
+illum 2
+
+newmtl props 2
+Kd 1 1 1
+map_Kd null
+illum 2
+
+newmtl Grey
+Kd 0.3676471 0.309256 0.2216696
+illum 2
+
+newmtl Charecter
+Kd 1 1 1
+map_Kd null
+map_Bump null
+illum 2
+
+newmtl Suite2
+Kd 1 1 1
+map_Kd null
+illum 2
+
+newmtl coffin
+Kd 1 1 1
+map_Kd null
+illum 2
+
+newmtl White
+Kd 1 1 1
+illum 2
+
+newmtl Darker Grey
+Kd 0.2941176 0.2586505 0.2054498
+illum 2
+
+newmtl GreenDecor
+Kd 0.1843137 0.2745098 0
+illum 2
+
+newmtl Bacl
+Kd 0 0 0
+illum 2
+
+newmtl Metallic grey
+Kd 0.8014706 0.7472534 0.6659278
+illum 2
+
+newmtl Darker Red
+Kd 0.6029412 0.02660033 0.02660033
+illum 2
+
+newmtl Brown
+Kd 0.5 0.1165061 0.04044119
+illum 2
+
+newmtl Default_Prototype
+map_Kd null
+illum 2
+
+newmtl Default-Material
+Kd 1 1 1
+illum 2
+
